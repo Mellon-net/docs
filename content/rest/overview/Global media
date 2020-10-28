@@ -1,12 +1,12 @@
 ---
-title: Media types
+title: Faso24 news
 intro: Learn about media types for specifying the format of the data you want to consume.
 redirect_from:
   - /v3/media
 versions:
   free-pro-team: '*'
   enterprise-server: '*'
----
+---www.faso24.md
 
 
 Custom media types are used in the API to let consumers choose the format
